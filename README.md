@@ -52,7 +52,7 @@ Multiplexeur 4 bits.
 
 Test exhaustif de l'UAL.
 
-![alt text](https://github.com/TritzA/UniteArithmetiqueLogique2/blob/main/images/labo3.PN)
+![alt text](https://github.com/TritzA/UniteArithmetiqueLogique2/blob/main/images/labo3.PNG)
 
 
 ### Implémentation phyisque sur une carte FPGA
