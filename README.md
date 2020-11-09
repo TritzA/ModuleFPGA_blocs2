@@ -63,8 +63,8 @@ Fichier de contraintes en *.txt avant sa modification en *.xdc.
 
 Carte FPGA.
 
-![alt text](https://github.com/TritzA/UniteArithmetiqueLogique/blob/main/images/Nexys4.jpg)
+![alt text](https://github.com/TritzA/UniteArithmetiqueLogique2/blob/main/images/Nexys4.jpg)
 
 Circuit de la carte FPGA.
 
-![alt text](https://github.com/TritzA/UniteArithmetiqueLogique/blob/main/images/Mapping_Nexys4.png)
+![alt text](https://github.com/TritzA/UniteArithmetiqueLogique2/blob/main/images/Mapping_Nexys4.png)
