@@ -1,6 +1,6 @@
 # UniteArithmetiqueLogique2
 
-Diviseur ou comparateur choisi grace à un multiplexeur.
+Diviseur ou convertisseur ou encrypteur choisi grace à un multiplexeur.
 
 Laboratoire : 3/5
 
@@ -11,7 +11,7 @@ Partenaire : James Brutus
 
 ## Objectifs
 
-Modéliser un diviseur entier par 4 ou comparateur choisi grace à un multiplexeur, le tout sur 4 bits.
+Modéliser un diviseur entier par 4 avec reste ou convertisseur code binaire en code Gray ou encrypteur choisi grace à un multiplexeur, le tout sur 4 bits.
 
 ## Utilisations
 Logiciel de moélisation : [Vivado 2020.1](https://www.xilinx.com/support/download.html)
