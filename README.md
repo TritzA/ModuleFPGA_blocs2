@@ -25,33 +25,35 @@ Logiciel de moélisation : [Vivado 2020.1](https://www.xilinx.com/support/downlo
 
 UAL final.
 
-![alt text](https://github.com/TritzA/UAL/blob/main/images/UAL.png)
+![alt text](https://github.com/TritzA/UniteArithmetiqueLogique2/blob/main/images/modele.PNG)
 
-Comparateur 4 bits.
-
-![alt text](https://github.com/TritzA/UAL/blob/main/images/CMP_4B.png)
 
 Diviseur 4 bits.
 
-![alt text](https://github.com/TritzA/UAL/blob/main/images/DIV_4B.png)
+![alt text](https://github.com/TritzA/UniteArithmetiqueLogique2/blob/main/images/DIVISION.PNG)
+
+
+Convertisseur 4 bits.
+
+![alt text](https://github.com/TritzA/UniteArithmetiqueLogique2/blob/main/images/BIN_VERS_GRAY(%20antonin).PNG)
+
+
+Encrypteur 4 bits.
+
+![alt text](https://github.com/TritzA/UniteArithmetiqueLogique2/blob/main/images/CRYPTO_4Bantonin.png)
+
 
 Multiplexeur 4 bits.
 
-![alt text](https://github.com/TritzA/UAL/blob/main/images/MUX_2_1_4B.png)
+![alt text](https://github.com/TritzA/UniteArithmetiqueLogique2/blob/main/images/MUX_1_3_4B.png)
 
-Multiplexeur 1 bit.
-
-![alt text](https://github.com/TritzA/UAL/blob/main/images/MUX_2_1_1B.png)
 
 ### Tests
 
 Test exhaustif de l'UAL.
 
-![alt text](https://github.com/TritzA/UAL/blob/main/images/exhaustif.png)
+![alt text](https://github.com/TritzA/UniteArithmetiqueLogique2/blob/main/images/labo3.PN)
 
-Test centré en A = 0xF de l'UAL.
-
-![alt text](https://github.com/TritzA/UAL/blob/main/images/a_vaut_f.png)
 
 ### Implémentation phyisque sur une carte FPGA
 
