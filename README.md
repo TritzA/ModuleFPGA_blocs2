@@ -1,4 +1,4 @@
-# ModuleFPGAbloc2
+# ModuleFPGAblocs2
 
 Diviseur ou convertisseur ou encrypteur choisi grace à un multiplexeur.
 
